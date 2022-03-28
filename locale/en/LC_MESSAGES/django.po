@@ -1,0 +1,148 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-22 18:31+0100\n"
+"PO-Revision-Date: 2022-03-22 13:37+0000\n"
+"Last-Translator:   <>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Translated-Using: django-rosetta 0.9.8\n"
+
+#: cart/forms.py:11 cart/templates/cart/detail.html:16
+msgid "Ilość"
+msgstr "Quantity"
+
+#: cart/templates/cart/detail.html:6
+msgid "Koszyk na zakupy"
+msgstr "Your shoping cart"
+
+#: cart/templates/cart/detail.html:10
+msgid "Twój koszyk"
+msgstr "Cart"
+
+#: cart/templates/cart/detail.html:14
+msgid "Obraz"
+msgstr "Image"
+
+#: cart/templates/cart/detail.html:15
+msgid "Produkt"
+msgstr "Product"
+
+#: cart/templates/cart/detail.html:17 cart/templates/cart/detail.html:47
+msgid "Usuń"
+msgstr "Remove"
+
+#: cart/templates/cart/detail.html:18
+msgid "Cena jednostkowa"
+msgstr "Unit price"
+
+#: cart/templates/cart/detail.html:19
+msgid "Cena"
+msgstr "Price"
+
+#: cart/templates/cart/detail.html:41
+msgid "Zmień"
+msgstr "Change"
+
+#: cart/templates/cart/detail.html:57
+msgid "Wartość całkowita"
+msgstr "Subtotal"
+
+#: cart/templates/cart/detail.html:63
+#, python-format
+msgid ""
+"\n"
+"                \"%(code)s\"\n"
+"                (%(discount)s%% rabatu)\n"
+"              "
+msgstr ""
+"\n"
+"                \"%(code)s\"\n"
+"                (%(discount)s%% off)\n"
+"              "
+
+#: cart/templates/cart/detail.html:74
+msgid "Kwota do zapłaty"
+msgstr "Total"
+
+#: cart/templates/cart/detail.html:82
+msgid "Kupon rabatowy"
+msgstr "Coupon "
+
+#: cart/templates/cart/detail.html:85
+msgid "Wprowadź"
+msgstr "Apply "
+
+#: cart/templates/cart/detail.html:89
+msgid "Kontynuj zakupy"
+msgstr "Continue shopping"
+
+#: cart/templates/cart/detail.html:92
+msgid "Do kasy"
+msgstr "Checkout"
+
+#: coupons/forms.py:6
+msgid "Kupon"
+msgstr "Coupon"
+
+#: myshop/settings.py:113
+msgid "Polski"
+msgstr "Polish"
+
+#: myshop/settings.py:114
+msgid "Angielski"
+msgstr "English"
+
+#: shop/templates/shop/base.html:8 shop/templates/shop/base.html:14
+msgid "Mój sklep"
+msgstr "Shop"
+
+#: shop/templates/shop/base.html:19
+msgid "Język"
+msgstr "Language"
+
+#: shop/templates/shop/base.html:35
+msgid "Koszyk"
+msgstr "Cart"
+
+#: shop/templates/shop/base.html:37
+#, python-format
+msgid ""
+"\n"
+"                PLN %(total_price)s\n"
+"              "
+msgstr ""
+"\n"
+"                PLN %(total_price)s\n"
+"              "
+
+#: shop/templates/shop/base.html:42
+msgid "Koszyk jest pusty."
+msgstr "Cart is empty"
+
+#: shop/templates/shop/product/detail.html:23
+msgid "Dodaj do koszyka"
+msgstr "Add to cart"
+
+#: shop/templates/shop/product/list.html:11
+msgid "Kategorie"
+msgstr "Categories"
+
+#: shop/templates/shop/product/list.html:14
+msgid "Wszystkie"
+msgstr "All"
+
+#: shop/templates/shop/product/list.html:28
+msgid "Wszystkie kategorie"
+msgstr "All categories"
